@@ -8,9 +8,8 @@ Instituição: UNESP
 
 
 
-\# Descrição do Projeto
-
-Investigação da sazonalidade no consumo residencial de energia elétrica entre as diferentes regiões do Brasil, analisando dados históricos e aplicando testes estatísticos para suportar decisões de planejamento energético.
+\# Pergunta Central
+O consumo residencial de energia elétrica apresenta um padrão sazonal claramente identificável ao longo do ano, e esse padrão varia entre as regiões brasileiras?
 
 
 
@@ -22,7 +21,12 @@ Link: https://www.epe.gov.br/
 
 Data de Acesso:\*\* 15/09/2026
 
-
+\##Tecnologias e Depenências:
+*Python 3.13
+*Pandas & NumPy
+*Matplotlib & Seaborn
+*SciPy 
+*Jupyter Lab
 
 \# Como Rodar o Projeto
 
