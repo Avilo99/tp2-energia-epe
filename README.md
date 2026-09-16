@@ -27,4 +27,7 @@ Data de Acesso:\*\* 15/09/2026
 \# Como Rodar o Projeto
 
 1\. Clone o repositório:
+```bash
+   git clone [https://github.com/SEU-USUARIO/tp2-energia-epe.git](https://github.com/SEU-USUARIO/tp2-energia-epe.git)
+   cd tp2-energia-epe
 
