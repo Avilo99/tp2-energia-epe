@@ -22,11 +22,11 @@ Link: https://www.epe.gov.br/
 Data de Acesso:\*\* 15/09/2026
 
 \##Tecnologias e Depenências:
-*Python 3.13
-*Pandas & NumPy
-*Matplotlib & Seaborn
-*SciPy 
-*Jupyter Lab
+\*Python 3.13
+\*Pandas & NumPy
+\*Matplotlib & Seaborn
+\*SciPy 
+\*Jupyter Lab
 
 \# Como Rodar o Projeto
 
